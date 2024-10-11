@@ -1,0 +1,14 @@
+C:\C# .Net Dev\C# Essential OOP\practical projects\04_OOP\Training_02\bin\Debug\net8.0\Training_02.exe
+C:\C# .Net Dev\C# Essential OOP\practical projects\04_OOP\Training_02\bin\Debug\net8.0\Training_02.deps.json
+C:\C# .Net Dev\C# Essential OOP\practical projects\04_OOP\Training_02\bin\Debug\net8.0\Training_02.runtimeconfig.json
+C:\C# .Net Dev\C# Essential OOP\practical projects\04_OOP\Training_02\bin\Debug\net8.0\Training_02.dll
+C:\C# .Net Dev\C# Essential OOP\practical projects\04_OOP\Training_02\bin\Debug\net8.0\Training_02.pdb
+C:\C# .Net Dev\C# Essential OOP\practical projects\04_OOP\Training_02\obj\Debug\net8.0\Training_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# .Net Dev\C# Essential OOP\practical projects\04_OOP\Training_02\obj\Debug\net8.0\Training_02.AssemblyInfoInputs.cache
+C:\C# .Net Dev\C# Essential OOP\practical projects\04_OOP\Training_02\obj\Debug\net8.0\Training_02.AssemblyInfo.cs
+C:\C# .Net Dev\C# Essential OOP\practical projects\04_OOP\Training_02\obj\Debug\net8.0\Training_02.csproj.CoreCompileInputs.cache
+C:\C# .Net Dev\C# Essential OOP\practical projects\04_OOP\Training_02\obj\Debug\net8.0\Training_02.dll
+C:\C# .Net Dev\C# Essential OOP\practical projects\04_OOP\Training_02\obj\Debug\net8.0\refint\Training_02.dll
+C:\C# .Net Dev\C# Essential OOP\practical projects\04_OOP\Training_02\obj\Debug\net8.0\Training_02.pdb
+C:\C# .Net Dev\C# Essential OOP\practical projects\04_OOP\Training_02\obj\Debug\net8.0\Training_02.genruntimeconfig.cache
+C:\C# .Net Dev\C# Essential OOP\practical projects\04_OOP\Training_02\obj\Debug\net8.0\ref\Training_02.dll
